@@ -198,3 +198,6 @@ This repository serves as the official landing page for Heart of Darkness. The s
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heart of Darkness today!**
+
+---
+**Last updated:** 2026-11-06 03:04:07 UTC
